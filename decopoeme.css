@@ -1,0 +1,26 @@
+/* Ficher CSS - Décoration du Poème de Maupassant */
+
+h1 {
+   color : #FFB6C1 ;
+   border : #FF1493 solid 1px ;
+
+   }
+
+h2 {
+   color : #FFB6C1	;
+   border : #FF1493 solid 1px ;
+   }
+h3 {
+   color : #670E2C	;
+   }
+p {
+   background : #FFC0CB ;
+   border : #FF1493 solid 1px ;
+   color : #670E2C ;
+   }
+
+.rime {
+   background : #C71585;
+   color : #FFEBCD;
+   }
+   
